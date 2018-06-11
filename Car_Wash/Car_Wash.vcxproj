@@ -111,7 +111,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="Car.h" />
-    <ClInclude Include="CarWash.h" />
     <ClInclude Include="Library.h" />
   </ItemGroup>
   <ItemGroup>
